@@ -63,6 +63,6 @@ I am Frontend Developer <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6I
   
 ---
 ### 🔥 My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-SvirkoAlexander&theme=dark&background=000000)](https://git.io/streak-stats)
-  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SvirkoAlexander&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvirkoAlexander&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
