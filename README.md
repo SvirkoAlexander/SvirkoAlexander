@@ -1,6 +1,12 @@
+<div align = "center">
 
+<div/>
+
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="view" />
 
 <div align = "center">
+  
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="im programmer" />
 <div>
   <a href="https://www.instagram.com/svirkosam/">
@@ -16,9 +22,6 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=your-github-SvirkoAlexander&color=blueviolet&label=PROFILE_VIEWS" alt="im programmer" />
 <div/>  
-
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="view" />
-  
 
 <div>
   <img src="https://media.giphy.com/media/orvy6SduzyFs6343Or/giphy.gif" width="100px" alt="im programmer" />
