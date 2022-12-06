@@ -37,7 +37,7 @@
   
 ### 👨‍ 💻 About Me:
   
-I am Frontend Developer <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30px" alt="im programmer" /> from Belarus, Minsk.
+I am Full-stack Developer <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30px" alt="im programmer" /> from Belarus, Minsk.
 - 💻 I`m working as a sofware engineer and contibuting to frontend for building web aplications.
 - 🖌️Develop Websites and Applications.
 - 📹Use Photoshop, Final cut pro, After effects technologies in my work.
@@ -58,6 +58,7 @@ I am Frontend Developer <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6I
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
   
