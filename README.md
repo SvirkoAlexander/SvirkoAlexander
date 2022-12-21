@@ -69,5 +69,5 @@ I am Full-stack Developer <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SvirkoAlexander&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SvirkoAlexander)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvirkoAlexander&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
